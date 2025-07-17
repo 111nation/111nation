@@ -1,1 +1,3 @@
-I'm Tafara (111nation), working with Rust and the slint ui framework!
+Tafara
+2006
+Learning front end web development

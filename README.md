@@ -6,7 +6,7 @@ _Hi I am Tafara, I have been coding and experimenting with tech for more than 5+
 `C++ | Rust | React.js | JS/TS | HTML/CSS + more`
 
 ##### Websites I own <3 <br />
-[Sim racing store](simracingwheels.vercel.app) <br />
+[Sim racing store](https://simracingwheels.vercel.app/) <br />
 [Catppuccin TicTacToe](https://tictactoe-111nation.vercel.app/) <br />
 
 ##### Socials <3 <br />

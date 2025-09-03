@@ -27,5 +27,6 @@ https://github.com/user-attachments/assets/75372d86-00ff-4048-a699-81c1fcee3042
   </tr>
   <tr>
     <td height="200"><h5>Terminal Game <3</h5><video src="https://github.com/user-attachments/assets/388149e4-fa7f-491c-a88d-105fde9a3940"></video></td>
+   <td height="200"><h5>Linux Customizable clock Widget <3</h5><video src="https://github.com/user-attachments/assets/d17d2fae-8be9-4b39-a7fa-b09b38867f8d"></video></td>
   </tr>
 </table>

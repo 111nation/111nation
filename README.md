@@ -12,7 +12,6 @@ _Hi I am Tafara, I love learning and making tools! Enjoy!_
 
 ##### Socials <br />
 [Twitter | X](https://x.com/111nation) <br />
-[LinkedIn](https://www.linkedin.com/in/tafara111)
 
 ##### Current Linux Dev Machine 
 _I am currently using Hyprland on Arch Linux, I use vim as my text editor. I also customized it based on the catppuccin colour scheme!!!_

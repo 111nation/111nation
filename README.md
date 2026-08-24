@@ -1,4 +1,4 @@
-### Software Developer | Web Dev | Web Design
+### Systems Engineering | Software Development | Web Development
 <br />
 
 _Hey, I love learning and making tools! Enjoy!_

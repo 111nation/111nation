@@ -1,7 +1,7 @@
 ### Software Developer | Web Dev | Web Design
 <br />
 
-_Hi I am Tafara, I love learning and making tools! Enjoy!_
+_Hey, I love learning and making tools! Enjoy!_
 
 `C++ | Rust | React.js | JS/TS | HTML/CSS + more`
 

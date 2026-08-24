@@ -1,7 +1,9 @@
 ### Systems Engineering | Software Development | Web Development
 <br />
 
-_Hey, I love learning and making tools! Enjoy!_
+_Hey, I love learning and making tools! I'm obsessed with Operating Systems as well as understanding computers at a software & silicon level!_
+
+_Enjoy!_
 
 ##### Websites I own  <br />
 [youboard Social Media](https://youboardapp.vercel.app/) <br />

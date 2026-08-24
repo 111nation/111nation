@@ -11,7 +11,7 @@ _Enjoy!_
 [Catppuccin TicTacToe](https://tictactoe-111nation.vercel.app/) <br />
 
 ##### Current Linux Dev Machine 
-_I am currently using Hyprland on Arch Linux, I use vim as my text editor. I also customized it based on the catppuccin colour scheme!!!_
+_I am currently using Hyprland on Arch Linux, I use neovim as my text editor. I also customized it based on the Catppuccin colour scheme!!!_
 
 https://github.com/user-attachments/assets/75372d86-00ff-4048-a699-81c1fcee3042
 

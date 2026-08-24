@@ -3,8 +3,6 @@
 
 _Hey, I love learning and making tools! Enjoy!_
 
-`C++ | Rust | React.js | JS/TS | HTML/CSS + more`
-
 ##### Websites I own  <br />
 [youboard Social Media](https://youboardapp.vercel.app/) <br />
 [Sim racing store](https://simracingwheels.vercel.app/) <br />

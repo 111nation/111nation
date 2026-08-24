@@ -8,9 +8,6 @@ _Hey, I love learning and making tools! Enjoy!_
 [Sim racing store](https://simracingwheels.vercel.app/) <br />
 [Catppuccin TicTacToe](https://tictactoe-111nation.vercel.app/) <br />
 
-##### Socials <br />
-[Twitter | X](https://x.com/111nation) <br />
-
 ##### Current Linux Dev Machine 
 _I am currently using Hyprland on Arch Linux, I use vim as my text editor. I also customized it based on the catppuccin colour scheme!!!_
 
